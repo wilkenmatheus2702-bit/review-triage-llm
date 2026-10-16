@@ -1,6 +1,6 @@
 # Review Triage with LLMs
 
-![CI](https://github.com/YOUR-USERNAME/review-triage-llm/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/wilkenmatheus2702-bit/review-triage-llm/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen)
 
