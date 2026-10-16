@@ -1,0 +1,201 @@
+review_id,stars,text,sentiment,topics,needs_action,verified
+00800678dcf28b0ea0caef2147b6945d,1,"produto não entregue. Mudo minha opinião assim que receber o produto. Consta no site que o produto foi entregue, mas não recebi.",negative,not_received,True,True
+011e96c5e421c691d96b3f0065f5ccdd,3,"não recomendo. O produto foi entregue corretamente, e até antes do prazo, porém, a sua qualidade é bem inferior ao esperado.",negative,praise;quality_or_description,False,True
+015406729d9d663b11a2f93c0dbc6c2b,4,Ótimo,positive,praise,False,True
+0580d177365cdd854912ec384e87d5ad,1,Até hoje 28/3 ainda não recebi o produto. Não sei se vou receber ou terei que entrar com processo para receber meu dinheiro de volta. Imagine se tivesse dependendo disto?,negative,not_received;return_or_refund,True,True
+05a156b6eb9d7ae73f0338e1474764af,5,Produto de qualidade e entrega antes do prazo,positive,praise,False,True
+083cea852e4bef40b5d4d436da1fc8ef,2,"O prazo de entrega não foi cumprida e só comprei para dar de presente para uma mãe que está prestes a ganhar bebê. Só comprei pelo site por conta da data de entrega 19/05, terá o parto sem a bolsa.",negative,late_delivery,False,True
+08b9d4cd8d58d356ea8bc6c32508161e,2,Ainda estou aguardando,negative,not_received,True,True
+0d0b765488fccbd0991789f8c229b4d4,5,"Chegou muito antes do prazo, muito satisfeita com a rapidez da entrega. Achei a base um pouco grande, mais a luminária em sí é linda. Adorei!",positive,praise,False,True
+0d53eac38f4797fcdadf26d7810dacb3,2,"muito caro, e mesmo comprando mais itens, vai ficando mais caro...",negative,other,False,True
+15322ded72312442e6ba52051bc9255d,4,"Os produtos foram bem embalados, corretos e a entrega dentro do prazo.",positive,praise,False,True
+1686235a474e47e1a0b469ba8372c9d5,2,"o produto chegou e como estava em viagem demorei uma semana para montar e quando fui montar estava faltando uma peça, que na verdade a peça principal,onde se pendura os cabides ou seja vai ficar sem",negative,wrong_or_missing_item,True,True
+1771fa953deb75fd898f8fdb003dab18,3,Podia ser utilizado apenas uma embalagem,neutral,other,False,True
+179527c47972453d440d9f65626945e4,2,"Comprei 2 relógios, mas só foi entregue 1",negative,wrong_or_missing_item,True,True
+1a1a1e88a2f712f99cf850efddde88f0,5,gostei do produto....fiquei satisfeita com a aquisição,positive,praise,False,True
+1f772894bba3f62571ac37904bdf1d26,1,"Produto não entregue. Pode ter ocorrido falha no sistema mas, até a presente data, meu produto não foi entregue; embora conste o contrário no sistema de rastreamento.",negative,not_received,True,True
+20dad9432bd4ebc622d01c4e7ecb03b9,1,Produto ainda não chegou. Produto ainda não foi entregue.,negative,not_received,True,True
+24872ab61fa986112bd5371374e6fc8e,1,Comprei outros produtos ao mesmo tempo e até depois dos tapetes e já recebi e os tapetes ainda não. Demorando demais.,negative,not_received,True,True
+2635f37524515b98164787847f9bc418,4,"Produto bom, loja confiavel.",positive,praise,False,True
+270d7699688950483ee22a99f2f0b0b4,1,"BOA TARDE, EU COMPREI OS PINCÉIS E ELES NÃO CHEGARAM JÁ TEM MAS DE UM MES, E NADA O PRAZO DE ENTREGA ERA PRA 15 DIAS UTEIS",negative,not_received,True,True
+27e71b7a8ea675d9a06190e8dcda1fc0,3,essa é minha terceira compra e apesar dos imprevistos ... super recomendo !!!!!!!!!,positive,praise,False,True
+2985c01e5a8c5fed0cfa36c476632fbc,5,"Produto conforme descrito, prazo e preço justos",positive,praise,False,True
+2bb9010329005e5dd24abdadc53f408c,5,Adorei combinou com minha sala.,positive,praise,False,True
+30a7d06e46b6dad4ad52b80ad7c0fbd2,5,Recomendo.. Compra ágil e entrega rápida. Negociação segura. Recomendo!,positive,praise,False,True
+33220153dfa38e20e496e8c15b8c2ad6,1,"preciso receber minha compra e ela nao passa de nota fiscal emitida, nao chegou...",negative,not_received,True,True
+3458df63b6830e3e30244e48ca388d29,5,Gostei da seriedade e responsabilidade . Ligaram para tirar dúvidas sobre o produto,positive,praise,False,True
+3631de76d542ab4f49e0e1d58907e7cd,5,otimo cabides vieram todos certos,positive,praise,False,True
+36b12e149ca7b09cce6698f08dba3c2d,3,recomendo. chegou antes do prazo,positive,praise,False,True
+37118feb86cd24f1c9eba1401422c646,4,"Comprei dois itens semelhantes (cartuchos de tinta) e a confirmação foi que receberia os dois pela targaryen. Pois bem, um veio de Maringá-PR da USE Toner e o outro, de São José dos Campos-SP da Tonerbrás",neutral,other,False,True
+372375df0933054a77e7bbef126f0fa8,2,Muito tempo para entrega. Embalagem horrível. O produto chegou sujo.,negative,damaged_or_defective;late_delivery,True,True
+38ce27f830df9b36c7f2f1fabd232135,4,Produto entregue antes do prazo,positive,praise,False,True
+397f474ecb47de228513a9d78be43abc,1,"Ainda não recebi o produto, não tenho opinião sobre ele. Demora na entrada",negative,not_received,True,True
+3aca3d8c1520a36beb7ead8cb8d5b85b,3,"Muito bom. Muito bom,entregue no prazo",positive,praise,False,True
+3b3b349f1583be5cb1bc0f0ddaea63e6,1,"Até agora não recebi o meu produto,já enviei e-mails perguntando sobre a entrega é não fui respondida ,como faço para ter meu dinheiro de volta",negative,not_received;return_or_refund;seller_service,True,True
+3c006a448f77b24d683f83c2a2322a6a,4,"recomendo. ainda não instalei, mas ótimo custo beneficio",positive,praise,False,True
+3da1047b6fc7c0fa63ae23b1777488fd,3,"Chegou junto com o pedido principal, mesmo sendo de outra loja, porém o celular chegou com lacre da embalagem violado.",neutral,damaged_or_defective,True,True
+3e94fac64bfebe7ce26d2f6b3949e020,2,Foi anunciada capa para moto z. E foi vendido e entregue o moto z play. A capa ficou maior do que deveria.,negative,wrong_or_missing_item,True,True
+3fcd3a75dbb5bf2869a9885c45dc31b1,3,aspecto do produto. o produto branco veio sujo como se já tivesse sido usado e dando a impressão de não ser novo.,negative,damaged_or_defective,True,True
+3fdd8998acdceff1a6860e121ef02a6c,4,Atendeu a minha. Expectativa,positive,praise,False,True
+40d9221485987ec48e1a35588befa2c6,5,produto de Boa qualidade,positive,praise,False,True
+41d614b133efebcd10352001bc024071,1,"O pedido foi entregue incompleto. Comprei duas capas para o celular moto g5 e duas películas de vidro para o mesmo celular, porém foram entregues somente uma capa e uma película.",negative,wrong_or_missing_item,True,True
+42709527d2300622d79d5888389b1db7,1,Neste pedido veio faltando o jogo de lençóis conforme email enviado em 13.12.2017,negative,wrong_or_missing_item,True,True
+42c7c0f58f315c40f44f1487ad7cc799,5,Ótimo. Ótimo,positive,praise,False,True
+44b0775508ca13a6bcea01f8648e3aa2,3,muito boa a loja a entrega foi entregue no prazo,positive,praise,False,True
+4541fae4f8d8fca07e8f2b2ce0b8c3dc,4,"Boa. tudo certo, dentro do esperado. Recomendo!",positive,praise,False,True
+454fde65d9047c62b117a52ea5365e5c,1,"Comprei 2 quantidades. Bom dia, comprei 2 quantidades do produto e me entregaram somente 1. Preciso que entreguem a outra por favor",negative,wrong_or_missing_item,True,True
+462305393581bbb206458b4591950ce9,1,Péssimo serviço,negative,seller_service,False,True
+46fd350dcb24d9f45a18138edf5b5097,5,lannister sempre surpreendendo!! Entregou uma semana antes do prazo!! Obrigada.,positive,praise,False,True
+4ae065a9ed27676994e75f0f0f3bab4c,2,"Produto com Defeito. O produto adquirido não pode ser utilizado, o mesmo apresentou problemas de montagem, Aguardando a troca do produto.....",negative,damaged_or_defective;return_or_refund,True,True
+4c1563dc28a5340594c4a9055e53fe4f,2,"A entrega foi rápida.,mas o produto foi mal embalado e o pote chegou estourado.tive que usar metade do pote( que conseguisalvar) colocando emoutropote.",negative,damaged_or_defective;praise,True,True
+4c939e6eb734ee2da01c3121e72c968e,4,Muito bom o Ferro sem fio,positive,praise,False,True
+4f881f90bf17da4663bf556d2e1e90ca,3,"Produto bom. Produto de qualidade, entrega demorada, prometeram 15 dias úteis, após finalizar a compra alterou para 25 dia úteis. Poderiam ser mais rápidos ou passar informação correta de prazos. No mais, tudo ok.",neutral,late_delivery;praise,False,True
+50415e2b7222726538448e5b07d69175,5,Parabéns!!!!,positive,praise,False,True
+55efd2d082da9963799477a0977e8edf,3,Tdo certo,positive,praise,False,True
+55f5fbc835cbc7401c388e07d827abb1,4,Achei o produto pequeno para uma cama king ou até mesmo queen,neutral,quality_or_description,False,True
+56dee63e139bf591811ef761b9c539ff,1,"Tudo certo com a loja, mas 1 mês esperando os COrreios entregarem.",negative,late_delivery,False,True
+5caccf1f37c49ef076ea0e418cecb2b4,1,Produto não entregue. Produto não entregue e nenhuma explicação dada.,negative,not_received;seller_service,True,True
+5f673623cdbaf860216cb71f411aa422,5,"Atendimento perfeito!. Compra e atendimento perfeitos! Produto entregue no prazo de excelente qualidade, lindo. Que marca de relógios maravilhosa a OSLO! Comprarei outros.",positive,praise,False,True
+61e6ce648e1cbafae24db8d3ccaec74e,2,"Recebi o produto e ele fuciona normalmente, porem o mesmo é diferente das imagens ilustrad a no site, já avia comprado em outro site e veio uma replica identica ao original, por isso não recomendo.",negative,quality_or_description,False,True
+6399bafa5a0e48f6e4b9bfa8a78962c0,2,"produto diferente da foto. Gostei do relógio, porém a foto que esta ai não é nada igual ao que vem. Não recomendo.",negative,quality_or_description,False,True
+64d03ce539d9ad688ac1c682c1aeb552,1,O produto a inda não chegou e não dá satisfação nenhuma,negative,not_received;seller_service,True,True
+65b9d7609efc229860f89e08dd349ae8,1,ENTREGA INCOMPELTA. ENTREGARAM 1 DOS TRES ITENS COMPRADOS QUE CONSTAVAM NA NF,negative,wrong_or_missing_item,True,True
+6847d4b8f1f25365738593eba9f37d58,5,"Adorei meu produto chegou antes do prazo, certinho. Obrigada",positive,praise,False,True
+691061fb232d6a7d464ad232d5405945,5,Muito boa reforçada! Como de costume chegou bem antes do previsto!Muito satisfeita!,positive,praise,False,True
+699013a9a3324862ca1aa07c89679f75,1,Diferente. Material inferior ao que demonstrava na imagem.,negative,quality_or_description,False,True
+6a27c93474c15cc15523c736184afbee,3,"Bom, porém. Uma das araras veio torta, os furos para fixação na parede também não são alinhados. Produto tem qualidade porém estes item precisam ser melhorados",neutral,damaged_or_defective;quality_or_description,True,True
+6ba0995393d57a60e0f74926db0d20ab,5,Recomendo . Uma boa entrega antes do prazo,positive,praise,False,True
+6c34525f268f78de3cc63f4e7bd1f722,2,Ótima loja totalmente responsável com o cliente. Um Exemplo,positive,praise,False,True
+6e8c4c2e3f24bcbbfaa95c3319f9138b,5,"Parabenizo pelo respeito ao consumidor, cumprimento de prazo na entrega do produto.",positive,praise,False,True
+6f233dbfbb701b1277c83c540bb04022,3,BOA COMPRA.,positive,praise,False,True
+72888bd255eff79a818d533c426b67f1,5,"Entrega rapida. Produto chegou em perfeitas condições, bem antes do prazo. Recomendo",positive,praise,False,True
+73c27f6bc921ac8cb0513cbc3a8070e0,5,"Tudo certo, conforme o esperado",positive,praise,False,True
+7682a15a6ab56ee9d11691344b85767a,5,super recomendado. Excelente satisfação,positive,praise,False,True
+780bd3adfa8b84c552ecf5c212502243,4,eu recomendo.,positive,praise,False,True
+79927442ebcbf70b2021e1339bb9a51b,5,muito boa. Gostei da atenção com a entrega,positive,praise,False,True
+7be47748bfa279a70d8a4e6ade49d4d9,4,"Foi tudo muito rápido, a compra, o pagamento e a chegada. Só faltou o próximo produto. O que deixaram a desejar, foi que eu comprei pelo site, porém asessei na loja e o vendedor não me explicou.",neutral,praise;seller_service;wrong_or_missing_item,True,True
+7c070900e55b6e95aec2f71b87522254,1,Não recebi o produto. Não recomendo.,negative,not_received,True,True
+7dfd824594c59956d80b7dfca74a83a4,1,"Não gostei da falta de comunicação, via email, da lannister, nem das informações nos rastreamento da transportadora, não batem... Já fiz meu pedido de ressarcimento por telefone. Esperando...",negative,not_received;return_or_refund;seller_service,True,True
+7f1d1a9612e4aed7a7d3155f0779dc4b,1,"Não comprem essa película. Não cola. Veio ressecada a cola ou algo do tipo, atrapalha no touch screen.",negative,damaged_or_defective,True,True
+7f6fa9d9dbd9d037c2c31af32792f622,1,"Não recomendo. Empresa targaryen, vende o produto e não entende nada sobre ele.Manda procurar uma fonoaudióloga.",negative,seller_service,False,True
+7ff99ed0c4b6e8a6e0729820404700ed,3,aprovado,positive,praise,False,True
+81b1b9877ab57bf13e0d8ffc2f550c1a,1,"Faltou o item 1, ou seja, não recebi as 2 saias. Quero a outra.",negative,wrong_or_missing_item,True,True
+83d1149212ad8b79fc39230d088ef2dd,2,falta ser entregue uma cadeira,negative,wrong_or_missing_item,True,True
+85f008956655efdbeaa013a1d0f703fd,3,"Não recebi ainda, mas na verdade como posso avaliar o tempo p/ entrega se o limite é até 13/12? Hoje dia 4/12 , portanto, dentro do prazo.",neutral,not_received,False,True
+8706f84435f362c8a2556ed81374cf5a,1,Produto incorreto. Preciso da devolução imediata do valor da compra,negative,return_or_refund;wrong_or_missing_item,True,True
+87d4300b57b5031765ea07160423c188,4,Recomendo. Sempre compro muito confiável,positive,praise,False,True
+89260395c18490bd8d87b6fa237cecd7,1,Não recebi meu pedido!,negative,not_received,True,True
+89a4ff077182a282cc6474a23f711b49,4,Tudo foi como divulgado.,positive,praise,False,True
+8a512cdbc3ae4049bb6da825e3398f3d,1,Nao veio o espeto,negative,wrong_or_missing_item,True,True
+8aa0f2427f0f50c1697e8b4b8fc3b342,2,"A garrafa foi entregue , só falta o fone bluetooth",negative,wrong_or_missing_item,True,True
+8b115173952206632155ac63ca3632d6,1,"PESSIMO. LOJAS lannister ESPERO O RETORNO DE VOCES!!!!!!!!!!!! FIZ O PEDIDO DE CANCELAMENTO ASSIM QUE A MERCADORIA CHEGOU E JA ESTA ACABANDO O PRAZO ATE AGORA NADA, RELOGIO CASIO PEQUENO DE CRIANÇA!",negative,return_or_refund;seller_service,True,True
+8c2e0e9d398001e03cc832fb2a0e2046,3,Avaliação de pedido.. Comprei um produto e não foi entregue sob alegação de que não havia mais no estoque. Em seguida o mesmo produto estava sendo propagado com um valor maior.resultado adquiri aquilo que não era meu plan,negative,return_or_refund;seller_service,False,True
+8e93dd240ee9c0d8ba83436980caa09e,2,"Colocaram nos status como entregue meu produto, quando na verdade recebi apenas um cadeado e uma carta de justificação de atraso na entrega. Mas, mesmo assim recomendo esta loja.",neutral,not_received,True,True
+914fa412a3cb30c52173fa3f0660bdd5,5,"Excelente produto. ótimo produto, combina com tudo! E chegou tudo certinho dentro do prazo.",positive,praise,False,True
+915d2be677f29ca902e232444a071a96,1,Fui roubada. Veio apenas um tablet eram dois agr tento contatar a loja pra abrir a reclamacao e nada!,negative,seller_service;wrong_or_missing_item,True,True
+9364ac5f9db46b2ea389cea4e5389529,1,O produto ainda não chegou!!!!,negative,not_received,True,True
+940b1bc4f57e68e9a264066bbe867e5e,5,"Entrega super rapida ,amei o tapete!",positive,praise,False,True
+940c83902a74ea7909fa90c495f4d999,2,É uma pena não ter chegado antes do Natal Espero que chegue até o ano Novo!,negative,not_received,True,True
+946f5e3f664cc5ec6778e1aedd9e32e3,4,Entrega perfeita material bom...só o tamanho que errei.. não serviu mais vou ficar e de para outra pessoa...o tamanho m e muito pequeno.,positive,praise,False,True
+94a900e8f2b2c5a33713506a8247611e,5,"Produto excelente, conforme descrição e prazo de entrega perfeito.",positive,praise,False,True
+95522899f02be1acb00c4d43823b9e5e,1,Recebi um produto diferente do que comprei não cabe no celular é menor e não é compatível com as saídas de áudio botões laterais sai do do fone tudo diferente,negative,wrong_or_missing_item,True,True
+95a31582487005fcc1cf30907d86454e,2,"Sempre gostei de comprar nas lannister, mas essa entrega deixou a desejar.",negative,late_delivery,False,True
+96c73b4dd713c8787d7996fc194aad4a,5,Ótimo. Loja confiável e o produto chegou como eu esperava,positive,praise,False,True
+97752ca492cf243c6aca3289550533d4,3,"O produto é de péssima qualidade , pelo preço que foi eu esperava melhor qualidade , toalhas ralé e rala , só serve mesmo para usar na praia , além de ásperas , em fim propaganda enganosa .",negative,quality_or_description,False,True
+983c7daec6bd71fb406cd3998e63574b,2,Defeito. A peca veio com defeito.,negative,damaged_or_defective,True,True
+9887697929ced92d709fbf97d8f59515,3,Bom. A lixeira serve só pra por contonete e algodão sujo muito pequeno,neutral,quality_or_description,False,True
+99e3dd75346d3be7d1223a530da8fcc7,5,"Rápido , produto lacrado ...tudo em ordem",positive,praise,False,True
+9a8781f3d949c16667671c8d0f7cbd08,5,MAS ACHO QUE TALVEZ NÃO FOI ENTRGUE NO PRAZO!!! NÃO SEI SE REALMENTE FOI ENTREGUE NO PRAZO...NÃO PRESTEI MUITA ATENÇÃO!!!ENTREGARAM NO DIA 10/07!! ATT,neutral,other,False,True
+9ba3ea546eff9441538fec7fd1afa11b,4,Muito bom . Eu recomendaria,positive,praise,False,True
+9c7e8cb49484cadce2bcc143729438af,1,recebi o produto errado ja fiz reclamaçao e nao fui atendida pelo contrario a funcionaria ANDRESSA dava risada da minha cara por telefone PESSIMO ATENDIMENTO E COMPLETAMENTE INSATISFEITA,negative,seller_service;wrong_or_missing_item,True,True
+9c956dded789e973e443b9647e93d84c,4,"Qualidade excelente. Os correios continuam se enrolando na entrega, mas recebi no prazo. stark é ótimo! Eu confio!",positive,praise,False,True
+9fbf3606fbcab068a2d0dfc1f8b33bac,5,Recomendado. Ok,positive,praise,False,True
+a028a6ec34f981e1d9b11ff54a63db6b,5,Talvez não seja uma mochila de grande durabilidade mas pelo custo benéfico é um otimo produto,positive,praise,False,True
+a29fa7ae34e5742cddb1d43ecbcfaf5f,2,Não recebi meu pedido completo.,negative,wrong_or_missing_item,True,True
+a4f69d72afb893c200dfcc892aacad5f,5,100000000. Entregaram antes do prazo...justo no dia em que aquele urso que minha sobrinha faz 15 anos e era o presente dela.....muito obrigada 💖,positive,praise,False,True
+a5c2c9a72d1fa84a9134723bbc0ddf0c,1,Ainda não recebemos o produto,negative,not_received,True,True
+a76dbd87a76afba88b5edac3d65d1c74,5,"meu pedido não foi entregue até a presente . solicitei 02 jogos de lençois , ok dois jogos de toalha SÓ VEIO UM JOGO. comprei no cartão ja esta incluso na minha fatura.Aguardo posição de outro jogo",negative,wrong_or_missing_item,True,True
+a8606f402e56be47a43eac2d5384cba1,1,o produto ainda nao chegou no local,negative,not_received,True,True
+aadfba5b8c31ae3abb43601aa7fdd1db,1,"Por duas vezes adquiri produtos com vocês,sendo cobrada taxa de entrega contudo das duas vezes realizadas nao foi entregue conforme acordado bem como não houve a restituição dos valores",negative,not_received;return_or_refund,True,True
+ad30d16e013d14e2bd81b5677e4e7e11,1,o produto que recebi nao foi a cor desejada enviaram foi tapete branco,negative,wrong_or_missing_item,True,True
+af01feb1cdea736410d350c65e657e04,1,Prezados o produto veio faltando o shampoo e o creme de hidratação. Na embalagem veio somente o creme de pentear.,negative,wrong_or_missing_item,True,True
+af537f56e6c0e24e60d00e05b85297e8,1,Não comprem nesse site,negative,other,False,True
+b0dc5081d2e12913db2a62789fb27ac1,3,Demorou a entrega..,negative,late_delivery,False,True
+b0f8f76db3f180bb8f12f90ca671f35b,1,Comprei 2 cadeiras e recebi só 1. Desmontaram uma cadeira toda ralada e empoeirada pra me enviar totalmente diferente das imagens da propaganda,negative,damaged_or_defective;quality_or_description;wrong_or_missing_item,True,True
+b11875b6111bbfd0a3c17c837720a91e,3,"Bom dia! Comprei 2 mochilas mais que chegou na terça feira dia 30/01/18, quando eu abri a embalagem só tinha uma mochila e na nota tá cobrando as duas,ou foi desviado pelos Correios ou a loja",negative,wrong_or_missing_item,True,True
+b11cba360bbe71410c291b764753d37f,5,"lannister como sempre, entregou certinho e dentro do prazo. recomendo muito",positive,praise,False,True
+b16b4679ce4db199d3ef1f142ca04825,1,O objeto é caso plantar com plantas de polietileno decorativos... Mas não vem a planta,negative,wrong_or_missing_item,True,True
+b1765ee8877dd8df50e05b7063b793aa,5,foi perfeito,positive,praise,False,True
+b1c15cdd488ed584235e3cea64780456,3,JÁ PASSOU DO PRAZO DE ENTREGA.,negative,not_received,True,True
+b1eff16379510a352380e141d6d6fa93,5,"Empresa 100% Confiável. Agilidade na entrega ,e produto de alta qualidade, minha Esposa amou conj.Ap de Jantar porcelanato 20pcs Casambient. Parabéns targaryen",positive,praise,False,True
+b33102d12fef193f4b1bb4d285ba21c6,5,"PESSOAL O PRODUTO É DE ÓTIMA QUALIDADE, A CARTEIRA É MUITO BONITA E DE MATERIAL RESISTENTE, INDICO A TODOS, ESSA LOJA ME SURPREENDEU.",positive,praise,False,True
+b46f1e34512b0f4c74a72398b03ca788,4,Deveriam embalar melhor o produto. A caixa veio toda amassada e vou dar de presente.,neutral,other,False,True
+b47d194b6d89d7533d105e79538baf8d,4,recomendo . *,positive,praise,False,True
+b5b0ec8502a19f8861292e17cb5b563f,4,"Compra feita e mercadoria recebida no prazo, muito bom, recomendo.",positive,praise,False,True
+b623c4cb66519ce2b7ad21da13d53ca3,5,cinco estrela. ótimo entrega rápida e eficiente gostei muito,positive,praise,False,True
+b6e53f45df8c4074338f0ef30654cb26,2,O produto veio com avaria que demostram não ter sido ocorridas pelo manuseio do meio de entrega mais sim pelo manuseio da loja pois veio com pequenas lascas e aranhões. só não trocoporcontadafalttempo,negative,damaged_or_defective,False,True
+b7113dd0e2d78074dd3d6db389d22ce3,1,O produto não foi entregue até o momento. Estou insegura quanto ao recebimento,negative,not_received,True,True
+ba287bd4bd3be5d9d37a908f25e21308,1,Ainda não recebi o produto e tbm recebi uma outra msg sinalizando q ia ser cancelado,negative,not_received;return_or_refund,True,True
+bac8fda28649c5130940a74675a3554f,1,"Até o momento, não recebi o produto. Todos os produtos que comprei em outros sites já chegaram menos este. Também não recebi nenhuma informação ou explicação da razão do ATRASO.",negative,not_received;seller_service,True,True
+bb139686d3999d4bd67a778fc4d0a1aa,5,maravilhoso,positive,praise,False,True
+bb7ad115ab34a7788b2d0abfb520f963,5,"Produto muito bom, bonito, e entregue antes do prazo! Como nas demais compras nas lannister.",positive,praise,False,True
+bc411d740ec7edaed657df29563c24f6,3,"Nao gostei do produto, nao limpa a corrente conforme fala no anuncio",negative,quality_or_description,False,True
+c0aa60d87dbed83c8e0621d963b1cb41,4,Gostei muito do produto,positive,praise,False,True
+c35614fbb7ff784817adf30a78e25490,3,"Nossa.... Nunca comprei algo nas lannister que demorasse tanto..... Pensei em desistir. Mas de qualquer forma, o relógio é bom",neutral,late_delivery;praise,False,True
+c3d03d375a3169a02f2e54f0433d4e1b,2,Preciso devolver. O produto veio errado preciso devolver já entrei em contato mas até agora obtive nenhum retorno,negative,return_or_refund;seller_service;wrong_or_missing_item,True,True
+c904f274e6aee6e13fa5f635c0d79d9a,5,"Otimo produto, loja cumpriu com todos os prazos Super recomendo loja e produto",positive,praise,False,True
+c9b8e1763ca168ae60318dcf876d38db,1,"Recebi a boneca com manchas no nariz e perna. Creio que seja do papel crepom que venho na caixa. Já abri Uma solicitação de atendimento, mas não obtive resposta.",negative,damaged_or_defective;seller_service,True,True
+ca0161842bfb1a23616c4dd04eff951e,1,Pedi o cancelamento e mesmo assim me entregaram o produto.,negative,return_or_refund,True,True
+ca49c06c678a5867dca984eb0db6ceda,1,"Preciso que reevie o produto pelos correios novamente para mim, por favor pois já paguei o produto. E não recebi o produto.",negative,not_received,True,True
+ccdaf0ba89e15efb1b316fc6a4c04adb,4,"Gostei muito, foi entreguei no tempo correto,produto correto.",positive,praise,False,True
+cffe94653d9e632d1c42357cf6d7237f,1,"Não recebi nem ao menos, nenhuma notificação do destino do produto... É uma falta de respeito com o cliente.",negative,not_received;seller_service,True,True
+d08cc40f9017263837bd0e77799d066a,1,Recebi produto de outro cliente totalmente diferente do que comprei...trocaram meu pedido....,negative,wrong_or_missing_item,True,True
+d26eba9219b7db5ab2c80d4a3587f762,1,nao recebi meu produto ate agora,negative,not_received,True,True
+d28138dcbee5d50ca9dddb812d21ce85,5,Lindo... Só faltou instruções da troca de pulseiras.,positive,praise,False,True
+d291bcd2472238d41f4d8a1b3932df4c,3,Entrega antes do prazo!!. Entrega antes do prazo!!,positive,praise,False,True
+d2b2e7612330948a735af300611bb922,3,"O aparelho chegou apresentando defeito, não está apresentando todas as funções no visor digital.",negative,damaged_or_defective,True,True
+d34db1b0dc0f28c623c782627a338727,1,"MUITO COMPLICADO O CONTATO COM A lannister, NÃO TEMOS ACESSO, CAIMOS SEMPRE NO MESMO LUGAR, LAMENTÁVEL. QUERIA TROCAR O PRODUTO E NÃO CONSEGUI. UM CAOS. NUNCA MAIS",negative,return_or_refund;seller_service,True,True
+d393cefda285b219ec579ff2968d2ba8,1,"Comprei 3 cestos de lixo inox, recebemos comente 2 pecas e ainda estavam todas riscadas, material de qualidade ruim",negative,damaged_or_defective;quality_or_description;wrong_or_missing_item,True,True
+d658933424632c54f905ff076f317a16,5,👍🏽. Recomendo.,positive,praise,False,True
+dbf9d4970b938fa69a82686010bd2549,4,Gostei. produto chegou dentro do prazo,positive,praise,False,True
+dc29a151c9cd239ec94dc30405348908,4,Loja parceira de www.lannister.com e por isso merecedora de crédito.,positive,praise,False,True
+dc3aaad68b58bce0ed4313eecb917694,3,"Produto entregue dentro do prazo e sem problemas. A qualidade do produto não é boa, as camadas de espuma EVA foram coladas desalinhadas com a concha externa de ABS havendo sobra na parte frontal.",neutral,praise;quality_or_description,False,True
+dff9cf72a7ff5916cb68ef2858222cf1,1,Ainda não recebi minha compra. Já passou do prazo previsto!,negative,not_received,True,True
+e03fd98145c15c118d8d64944345d3be,4,Recebido com sucesso . Recebi o pedido no prazo e como esperado,positive,praise,False,True
+e090a8c264b25368b737f79d30ced5be,3,"O cartucho parece igual/compatível, mas não encaixa perfeito na máquina. Conferi o pedido e os códigos e estão corretos, a falha é de encaixe. Por sorte encaixou noutra máquina que usa o mesmo tipo de",neutral,quality_or_description,False,True
+e1d14943585bce23832dbefae3da0d31,3,"sobre o produto ele e bem rustico, grande, conforme informado e folhas escuras, não foi informado, já a loja poderia dar descontos pois a taxa de entrega, deveria baixa na compra dos produtos.",neutral,other;quality_or_description,False,True
+e227eaa3a180c7fa254458f34034a96f,5,"Muito bom produto. Design,material, acabamento... Lindo",positive,praise,False,True
+e3202ceeedb2fe772370585cb408f9a2,5,Parabéns show,positive,praise,False,True
+e3b11f25f3bd6d888692a1a755b6f057,4,"O ar que sai da escova não é muito forte igual ao secador, mas ela cumpre bem o seu papel, alisa e seca o cabelo.",positive,praise,False,True
+e4384773e4958b2cecbd9350ef38144d,4,Ainda não usei,neutral,other,False,True
+e5c043baf6439e5f3086d5de1283d884,5,Muito boa,positive,praise,False,True
+e6e8bb27277ae45c9033819eabc8ee57,2,"SRS O Anuncio de uma capa de Couro,para o celular , NAO confere para o modelo anunciado Ao se colocar o Celular , na CAPA , os BOTOES , o Microfone , ficam Bloquados ......e sem Acess",negative,quality_or_description,False,True
+e74598307b6209e21d6514a830224b76,1,Entrega atrasada.,negative,late_delivery,False,True
+e7f5a48e19c9c48e66ff0a23d333b96b,1,o produto não tem nada a ver com a cor que eu pedi e ficou pequena no tanque da moto,negative,quality_or_description;wrong_or_missing_item,True,True
+e8440b1e9150ed83415cc8805f91fa46,2,A máquina tem um acabamento fantástico e é muito resistente eu indico valeu a compra!,positive,praise,False,True
+e85164bba30b7e1f290803854926a87c,5,Não esperava que fosse tão boa essa caixa mas me surpreendeu a qualidade do som! Estou muto satisfeita!,positive,praise,False,True
+ea837ec663c475461ee56afcd7f4e66a,1,produto não entregue. Não recebi o produto e nem meu dinheiro de volta. Peço providencia das Lojas lannister.,negative,not_received;return_or_refund,True,True
+eb9613c10ef594e18652c735f5894926,5,"Mega satisfeita!. Recomendo este produto, mt bom. Lojas lannister está de parabéns entregou bem antes do combinado.",positive,praise,False,True
+ec7839e9d8415f5dfa74cbd3dd00132e,1,O produto chegou cheio de amassados. Sequer fica estável. Uma pena.,negative,damaged_or_defective,True,True
+edbaf88bdc6fcbfb965147b9458752d2,2,"Chegou no prazo, até bem antes do prazo. Porém o material da pasta não era o que esperava.",negative,praise;quality_or_description,False,True
+ee12726aa2d21edbc6c8c29565df8dd6,5,Excelente loja para comprar e produto de muito boa qualidade! Ficamos muito satisfeitos e continuaremos comprando. Chegou antes do prazo!,positive,praise,False,True
+eef7deca8c74a5f2906401b70a9a6387,5,"Quanto ao atendimento, a lannister está de parabéns. Além de entregarem sempre dentromdo prazo.",positive,praise,False,True
+efe5e4036a5224022d65151cfdfa26ae,5,"Adorei, estamos usando muito em casa, a loja foi rápida na postagem.",positive,praise,False,True
+f00ca078422e9228c68c0a27a6b515c7,1,1. ruin,negative,other,False,True
+f0a1163d7b274827e0a235a6c6100b6f,5,Tudo certo!. Tudo ok!,positive,praise,False,True
+f2da7a869e176f2d2883a83c4e2dca5b,4,Dentro do esperado.,positive,praise,False,True
+f491c34662c69ddabc7401190a2e9a5b,2,Por favor verifiquem com os correios. Desde já agradeço,neutral,not_received,True,True
+f4d6505024eec5f3fc6f7030cc7a5073,1,"Pelas descrições do site, trata-se de um produto original, em nenhum momento está claro para o consumidor (conforme previsto em estatuto) que se trata de um cartucho compatível.",negative,quality_or_description,False,True
+f66bd2b20a4213bd5d44588f12409892,5,Bom. Produto original. Entregue o código e o Office foi baixado da página da Microsoft. Fácil instalação.,positive,praise,False,True
+f7be8904b89230dc5314ab373668525e,3,A EMBALAGEM VEIO UM POUCO ABERTA E O PRODUTO SUJO.,neutral,damaged_or_defective,True,True
+f81782f1e4c7f6bac3576397ea438e43,5,Máximo . Entrega dentro do prazo,positive,praise,False,True
+f8fa81689284773a247b3de7194e7fb1,1,"não gostei do produto, a qualidade é muito ruim, ja veio descascando a camada, não gostei",negative,damaged_or_defective;quality_or_description,True,True
+f9c18ec2ec4ced2bfbb16aa9d6921c44,3,Confiavel,positive,praise,False,True
+fd869afd1c1565c26ffe3d5e7a3af52e,3,"A película veio muito menor do tamanho do aparelho,5mm lateral e 5mm vestical , é MTA coisa...",negative,quality_or_description,False,True
+fe00841c6b93d642876371b3b0d255c2,4,Recomendo. Ótimo,positive,praise,False,True
+fe0f6c45ca46b31499c431f4440d443d,5,"Produto excelente e ótima entrega, parabéns!",positive,praise,False,True
+fea381af131fa1f23c6acc361ac863a1,1,Aguardo recebimento,negative,not_received,True,True
+fea6ec14706fc755401a90b8f893ac6c,5,"super recomendo. Muito eficiente, recebi antes do prazo",positive,praise,False,True
+fec96125df5f2175a5cc35365f6b8bef,5,"Minha filha adorou a mochila, então está super aprovado!!!",positive,praise,False,True
+ff02ba09f2b1da8905e79ad79d49b796,1,Fiz o pedido no dia 23.11 e até hoje dia 12.12.2017 o produto ainda não foi entregue. Muita demora!,negative,not_received,True,True
+ff5d9880edbb9a7738fd2c6fa680ac82,4,"Produto. Ainda não abri, pois é presente e vai ser aberto na quinta-feira, se tiver algum problema com o produto avisarei.",neutral,other,False,True
